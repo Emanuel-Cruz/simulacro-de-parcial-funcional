@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "simulacro-de-parcial:lib"
+
+    - path: "./test"
+      component: "simulacro-de-parcial:test:simulacro-de-parcial-test"
